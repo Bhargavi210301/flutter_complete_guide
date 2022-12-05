@@ -45,6 +45,10 @@ class _MyAppState extends State<MyApp> {
               child: Text('answer3'),
               onPressed: answerQuestion,
             ),
+            ElevatedButton(
+              child: Text('answer3'),
+              onPressed: answerQuestion,
+            ),
           ],
         ),
       ),
